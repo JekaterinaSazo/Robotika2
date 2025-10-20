@@ -1,8 +1,12 @@
 # Robotics - 2 HW.
-Simon says
+Simon says game
 
 # Demo video:
-<!--Prideti reikia-->
+
+
+
+https://github.com/user-attachments/assets/1c0b110b-0e96-4142-8ba3-2271686bdac0
+
 
 
 # Problem:
