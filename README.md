@@ -30,7 +30,7 @@ The design of this system is created in such a way that users can compete with e
 
 # Design and schematics:
 ## Design
-<!--Prideti reikia-->
+![Design](https://github.com/JekaterinaSazo/Robotika2/blob/main/Assets/Rob.jpg?raw)
 
 ## Schematic of the design
 <!--Prideti reikia-->
